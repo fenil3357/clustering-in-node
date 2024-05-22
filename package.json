@@ -1,0 +1,30 @@
+{
+  "name": "clustering-in-node",
+  "version": "1.0.0",
+  "description": "Simple express server with clustering",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fenil3357/clustering-in-node.git"
+  },
+  "keywords": [
+    "node",
+    "clustering",
+    "express",
+    "multi-processing"
+  ],
+  "author": "Fenil Rami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fenil3357/clustering-in-node/issues"
+  },
+  "homepage": "https://github.com/fenil3357/clustering-in-node#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "type": "module"
+}
